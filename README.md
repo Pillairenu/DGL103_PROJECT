@@ -1,9 +1,9 @@
 # DGL103_PROJECT
 
-## Project Description: Website Redesign for Glass Express
+## Project Description: Website Redesign for Glass Expressions
 
 ### Project Overview:
-The Glass Express website redesign project aims to transform the existing website (https://www.glassexp.com/) into a visually appealing, customer-centric, and professional online platform. The client's primary goal is to enhance user engagement, provide comprehensive information, and ensure the website is responsive across various devices. The project involves reimagining and rebuilding the website using HTML and CSS, with a focus on creating four key pages: Home, Supplies, Gallery, and Contact Us.
+The Glass Expressions website redesign project aims to transform the existing website (https://www.glassexp.com/) into a visually appealing, customer-centric, and professional online platform. The client's primary goal is to enhance user engagement, provide comprehensive information, and ensure the website is responsive across various devices. The project involves reimagining and rebuilding the website using HTML and CSS, with a focus on creating four key pages: Home, Supplies, Gallery, and Contact Us.
 
 ### Project Objectives:
 
